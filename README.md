@@ -1,4 +1,3 @@
-Olá seja bem vindo(a), aqui você vai encontar um descritivo de um teste que realizei em uma empresa, para ficar mais claro o conhecimento em BDD, aproveite!
 
 <strong>BDD</strong>
 <br>Given store is open
@@ -35,7 +34,7 @@ variable storeStatus=commands.GetStoreStatus ();
  if (storeStatus==open) { 
    continue;
  }
-  
+
   else { 
     Write testfailed - Failed the storeStatus;
     Endtest;
