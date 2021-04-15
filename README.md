@@ -1,3 +1,4 @@
+Olá seja bem vindo (a) apresento aqui um teste técnico que realizei para uma entrevista, onde fica mais claro meu conhecimento em BDD, espero que aproveite!
 
 <strong>BDD</strong>
 <br>Given store is open
